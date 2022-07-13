@@ -66,9 +66,9 @@ e1	1	2	3	4	5	6	7	8	EIc
 E	K	4	iso
 
 // ************************************ Elementquerschnitt *****************************
-// nach dem Schlüsselwort "Querschnitte" kommen beliebig viele Zeilen mit
+// nach dem Schlüsselwort "Querschnitt" kommen beliebig viele Zeilen mit
 // QuerschnittId und 1 Wert für Elementdicke
-Querschnitte
+Querschnitt
 dicke	1
 
 // ************************************ Material *****************************

@@ -17,7 +17,6 @@ e1	n1	n2	c1	iso
 e2	n2	n3	c1	iso
 e3	n3	n4	c1	iso
 
-
 //Id	Querschnittsfläche(m^2)	Trägheitsmoment(m^4)
 Querschnitt
 c1	5,0	17,6
