@@ -54,8 +54,11 @@ Anfangstemperaturen
 stationäre Lösung
 
 Zeitabhängige Randbedingungen
-rb1	n06	linear	0;0	15;20	20;30
-rb2	n10	linear	0;0	15;20	20;30
+rb1	n00	konstant	10
+rb2	n01	konstant	10
+rb3	n02	konstant	10
+rb4	n06	linear	0;0	15;20	20;30
+rb5	n10	linear	0;0	15;20	20;30
 
 Zeitabhängige Elementlasten
 za02	e02	konstant	30	30	30

@@ -1,0 +1,43 @@
+ModellName
+Durchlaufträger
+
+Raumdimension
+2	3
+
+Knoten
+n0	0	0
+n1	5	0
+n2	10	0
+n00	0	2
+n10	1	2
+n20	2	2
+
+Biegebalken
+e0	n0	n1	c0	m0
+e1	n1	n2	c0	m0
+e00	n00	n10	c0	m0
+e10	n10	n20	c0	m0
+
+Querschnitt
+c0	0,12	0,0036
+
+Material
+m0	21000000	0,22	0,175
+
+Punktlast
+P0	e0	0	-200	0,5
+P00	e00	0	-200	0,5
+
+Linienlast
+L0	e0	0	-100	0	-100	True
+L00	e00	0	-100	0	-100	TRUE
+
+Lager
+Support0	n0	xyr
+Support1	n1	y
+Support2	n2	y
+Support00	n00	xyr
+Support10	n10	y
+Support20	n20	y
+
+end
