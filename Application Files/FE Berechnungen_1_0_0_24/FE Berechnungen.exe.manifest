@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FE Berechnungen.exe" size="675840">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FE Berechnungen.exe" size="667648">
       <assemblyIdentity name="FE Berechnungen" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vdXTNaiev6MNS0CgV01p/Ot/9cS9yZr+51SMsBI1b4Y=</dsig:DigestValue>
+        <dsig:DigestValue>VNvWEU9JShZCad9l9gtC2tqYpYge5v7gd9Cx1Pv9FEg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>i16tVHTIp4wuEBC85aHd9SK78tQlmdGI6FvsKOU2A0E=</dsig:DigestValue>
+        <dsig:DigestValue>4pEFukp2WIGcvAQI6s5A4pqXsRuCfiD92d2RIXyD294=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
